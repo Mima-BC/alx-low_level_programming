@@ -1,12 +1,11 @@
-#include <stdio.h>
 
-#include <unistd.h>
+#include <stdio.h>
 
 /**
  * main - entry point
  *
- * Description: prints and that piece..
- * Return: 1 if sucessful
+ * Description: Prints "and that piece of art is useful.." without puts
+ * Return: 1
  */
 
 int main(void)
